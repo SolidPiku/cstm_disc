@@ -1,5 +1,10 @@
 ## These are my custom settings for discord!
 
+### Needed Utils
+ - [VenCord](https://camo.githubusercontent.com/d4a79756ae5f075c74d1f8744bb463df56a8188c00c6262ee5129f3a294e1840/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f56656e636f72642f496e7374616c6c65723f6c6162656c3d446f776e6c6f616425323056656e636f7264253230496e7374616c6c6572267374796c653d666f722d7468652d6261646765)
+
 ### Themes used:
-- Clear Vision https://clearvision.github.io
-- - - - - - - -
+- [ClearVision](https://clearvision.github.io)
+
+
+
